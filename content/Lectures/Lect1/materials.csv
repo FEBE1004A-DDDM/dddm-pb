@@ -1,0 +1,9 @@
+Material,Category,Density,Strength
+Aluminum,Metal,2.7,310
+Steel,Metal,7.85,400
+Titanium,Metal,4.5,434
+PLA,Polymer,1.24,50
+ABS,Polymer,1.06,40
+Carbon_Fiber,Composite,1.6,600
+Aluminum,Metal,2.8,325
+Steel,Metal,7.85,415
